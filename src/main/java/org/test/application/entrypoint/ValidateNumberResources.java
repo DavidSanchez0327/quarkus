@@ -1,7 +1,7 @@
-package org.test.application.resources;
+package org.test.application.entrypoint;
 
 import io.smallrye.mutiny.Multi;
-import org.test.domain.dto.NumbersDTO;
+import org.test.application.dto.NumbersDTO;
 import org.test.domain.model.Numbers;
 import org.test.domain.usecase.ValidateNumberUseCase;
 

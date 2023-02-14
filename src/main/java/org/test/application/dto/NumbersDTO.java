@@ -1,4 +1,4 @@
-package org.test.domain.dto;
+package org.test.application.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
